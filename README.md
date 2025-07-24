@@ -3,6 +3,10 @@
 
 ***Conteúdo da Aula:***
 
+* Comandos utilizado:
+  * git log;
+  * git revert hash(id do commit).
+
 ## :memo: Explicação do Processo
 
 **O que este conteúdo faz?**
